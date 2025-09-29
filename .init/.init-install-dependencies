@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/global-leaderboard-mobile-app-87384-87391/game_database"
+}
